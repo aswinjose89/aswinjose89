@@ -5,7 +5,7 @@
 <a href="https://twitter.com/aswinjose_89">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/aswinjose">
+<a href="https://www.linkedin.com/in/aswinjose">
   <img align="left" alt="Aswin Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/aswinjose89">
