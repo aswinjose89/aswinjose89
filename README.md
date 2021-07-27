@@ -33,7 +33,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Spend more time on hacking.
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/aswinjose89?style=social)](https://twitter.com/aswinjose_89)
+[![Twitter: Aswin](https://img.shields.io/twitter/follow/aswinjose_89?style=social)](https://twitter.com/aswinjose_89)
 [![Linkedin: Aswin](https://img.shields.io/badge/-Aswin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/aswinjose)](www.linkedin.com/in/aswinjose)
 [![GitHub Aswin](https://img.shields.io/github/followers/aswinjose89?label=follow&style=social)](https://github.com/aswinjose89)
 [![website](https://img.shields.io/badge/PortfolioWebsite-aswin.live-2648ff?style=flat-square&logo=google-chrome)](https://sites.google.com/view/aswin-cv/home/)
