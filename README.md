@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswinjose89&label=Views&color=blue&style=plastic" alt="aswinjose89" /> </p>
 
-<a href="#">
+<a href="https://twitter.com/aswinjose_89">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="www.linkedin.com/in/aswinjose">
@@ -24,7 +24,6 @@
 <br/>
 <br/>
 
-
 - 🔭 I’m currently working on [Full-Stack Developer](https://linktr.ee/aswinjose) at [GlobalFoundries](https://gf.com/).
 - 🌱 I’m currently learning more about Machine Learning.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCpVaB3pJOKre347kwhvi8pA).
@@ -34,7 +33,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Spend more time on hacking.
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/aswinjose89?style=social)](https://twitter.com/aswinjose89)
+[![Twitter: imthepk](https://img.shields.io/twitter/follow/aswinjose89?style=social)](https://twitter.com/aswinjose_89)
 [![Linkedin: Aswin](https://img.shields.io/badge/-Aswin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/aswinjose)](www.linkedin.com/in/aswinjose)
 [![GitHub Aswin](https://img.shields.io/github/followers/aswinjose89?label=follow&style=social)](https://github.com/aswinjose89)
 [![website](https://img.shields.io/badge/PortfolioWebsite-aswin.live-2648ff?style=flat-square&logo=google-chrome)](https://sites.google.com/view/aswin-cv/home/)
