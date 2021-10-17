@@ -31,7 +31,7 @@
 - 💬 Ask me about Angular, Python, Nodejs, ElasticSearch or any tech-related stuff.
 - 📫 How to reach me: [Gmail - @aswin1906](https://mail.google.com/mail/?view=cm&fs=1&to=aswin1906@gmail.com&su=Requesting&nbsp;To&nbsp;Contact&body=Hi&nbsp;Aswin&bcc=ajoseph2@gfoundries.com) , [Youtube - @CodeSpotify](https://www.youtube.com/channel/UCpVaB3pJOKre347kwhvi8pA)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Spend more time on hacking.
+- ⚡ Fun fact: Spend more time on designing software products.
 
 [![Twitter: Aswin](https://img.shields.io/twitter/follow/aswinjose_89?style=social)](https://twitter.com/aswinjose_89)
 [![Linkedin: Aswin](https://img.shields.io/badge/-Aswin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/aswinjose)](www.linkedin.com/in/aswinjose)
